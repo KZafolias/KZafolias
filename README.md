@@ -1,4 +1,4 @@
-## Hi ther ei am Kostas Zafolias - aka Daewooer 👋
+## Hi there I am Kostas Zafolias - aka Daewooer 👋
 
 ### I am a Developer
 --👋 Hi, I’m @KZafolias
