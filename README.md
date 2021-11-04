@@ -9,5 +9,5 @@
 
 --💞️ I’m looking to collaborate on Web Projects
 
---📫 How to reach me zafoliaskostas@gmail.com (only business)
+--📫 How to reach me zafoliaskostas@gmail.com 
 
