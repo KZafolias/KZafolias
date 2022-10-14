@@ -4,9 +4,9 @@
 
 --👋 Hi, I’m @KZafolias
 
---👀 I’m interested in Programming
+--👀 I’m interested in life
 
---🌱 I’m currently learning Docker
+--🌱 I’m currently learning about Docker
 
 --💞️ I’m looking to collaborate on Web Projects
 
